@@ -1,0 +1,6 @@
+{
+  "name": "Guess The Number",
+  "description": "An offline number-guessing puzzle game with 3 difficulty modes, smart hints, sound effects, haptics, confetti animations, and local score history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
